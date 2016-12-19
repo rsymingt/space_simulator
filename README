@@ -1,0 +1,15 @@
+r - resets game
+
+c - clears creation
+
+v - change velocity-zoom constant variable
+
+s - change mass and radius
+
+p - pause game
+
+o - planet selector
+
+left click - camera
+
+right click - create object
